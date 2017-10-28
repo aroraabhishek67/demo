@@ -1,13 +1,2 @@
 jikj
-the above line was a typing error
-thanks for cooperating
-<<<<<<< HEAD
-i accepted yoy changes
-ok accepted
-=======
-typing error is a big blunder
-branch-2
-this is change in branch
-this is change in master branch
-plz accept my changes (shashank mishra)
-ok i accepted
+
